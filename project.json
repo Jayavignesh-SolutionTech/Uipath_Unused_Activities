@@ -4,7 +4,9 @@
   "main": "Zip, Unzip and Mail Activities.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.FormActivityLibrary": "[2.0.1-preview]",
     "UiPath.Mail.Activities": "[1.12.2]",
+    "UiPath.Persistence.Activities": "[1.4.1]",
     "UiPath.System.Activities": "[21.10.2]",
     "UiPath.UIAutomation.Activities": "[21.10.3]"
   },
