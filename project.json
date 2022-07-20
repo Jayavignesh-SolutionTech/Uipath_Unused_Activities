@@ -20,7 +20,7 @@
     "isPausable": true,
     "isAttended": false,
     "requiresUserInteraction": true,
-    "supportsPersistence": false,
+    "supportsPersistence": true,
     "excludedLoggedData": [
       "Private:*",
       "*password*"
